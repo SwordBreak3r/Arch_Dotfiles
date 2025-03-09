@@ -1,0 +1,16 @@
+autologin.saved_credentials="{\"12173418103\":[\"12173418103\",\"xRtbcnZ4RsBCzxEfzQoM3a3xPsTHx2EYNIPoExfVDN477+zxCBNyKdP9t2SkvNZl7g8rXgewjMVTE5A1Un1TkrxWDa8r/mtbfkJcuQ9jnXX4/ZMEK4Cp6v/bnEvNo/uZWXAeuhK6zE2QNakeJrREiaEv9A4KCcqGlQR5Wn6hSLjxK4Au59w5ID6yZGfp7OvgwmNxsgDbG1Ol1lm/F/j7J5EyTsHJCYmdO36uBhxUn1HvLdpgGXwD8m0lbjPrbtZX\"]}"
+autologin.blob="xRtbcnZ4RsBCzxEfzQoM3a3xPsTHx2EYNIPoExfVDN477+zxCBNyKdP9t2SkvNZl7g8rXgewjMVTE5A1Un1TkrxWDa8r/mtbfkJcuQ9jnXX4/ZMEK4Cp6v/bnEvNo/uZWXAeuhK6zE2QNakeJrREiaEv9A4KCcqGlQR5Wn6hSLjxK4Au59w5ID6yZGfp7OvgwmNxsgDbG1Ol1lm/F/j7J5EyTsHJCYmdO36uBhxUn1HvLdpgGXwD8m0lbjPrbtZX"
+es.send-on-startup=true
+core.clock_delta=0
+autologin.username="12173418103"
+app.window.position.saved=true
+app.window.position.height=1006
+app.window.position.y=52
+storage.last-location="/home/dev/.cache/spotify/Storage"
+app.window.state.saved=true
+app.window.position.width=931
+app.window.position.x=22
+app.enable-developer-mode=true
+autologin.canonical_username="12173418103"
+es.use-lmdb=true
+app.last-launched-version="1.2.56.502.ga68d2d4f"

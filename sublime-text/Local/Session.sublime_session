@@ -1,0 +1,582 @@
+{
+	"file_history":
+	[
+		"/home/dev/.config/kitty/kitty.conf",
+		"/home/dev/.config/kitty/Tokyo-Night.conf",
+		"/home/dev/.config/waybar/styleoptions.css",
+		"/home/dev/.config/hypr/hyprpaper.conf",
+		"/home/dev/.config/waybar/style.css",
+		"/home/dev/.config/hypr/hyprland.conf",
+		"/home/dev/.bashrc",
+		"/home/dev/.config/waybar/waybar.conf",
+		"/home/dev/.config/fastfetch/config.jsonc",
+		"/home/dev/.config/fastfetch/config.conf",
+		"/home/dev/.config/wofi/syle.css",
+		"/home/dev/.config/wofi/config",
+		"/home/dev/.config/cava/shaders/pass_through.vert",
+		"/home/dev/.config/cava/shaders/northern_lights.frag",
+		"/home/dev/.config/cava/shaders/bar_spectrum.frag",
+		"/home/dev/.config/cava/config"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4192,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1741367373,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1080.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			28.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dev/.config/waybar/style.css",
+				"/home/dev/.config/waybar/mocha.css",
+				"/home/dev/.config/waybar/macchiato.css",
+				"/home/dev/.config/waybar/config.jsonc",
+				"/home/dev/.config/kitty/kitty.conf",
+				"/home/dev/.config/kitty/Tokyo-Night.conf",
+				"/home/dev/.config/waybar/styleoptions.css",
+				"/home/dev/.config/hypr/hyprpaper.conf",
+				"/home/dev/.config/hypr/hyprland.conf",
+				"/home/dev/.bashrc",
+				"/home/dev/.config/waybar/waybar.conf",
+				"/home/dev/.config/fastfetch/config.jsonc",
+				"/home/dev/.config/fastfetch/config.conf",
+				"/home/dev/.config/wofi/syle.css",
+				"/home/dev/.config/wofi/config",
+				"/home/dev/.config/cava/shaders/pass_through.vert",
+				"/home/dev/.config/cava/shaders/northern_lights.frag",
+				"/home/dev/.config/cava/shaders/bar_spectrum.frag",
+				"/home/dev/.config/cava/config"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/dev/.config/waybar/config.jsonc",
+					"settings":
+					{
+						"buffer_size": 2698,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAigoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/dev/.config/waybar/macchiato.css",
+					"settings":
+					{
+						"buffer_size": 788,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAFAMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/dev/.config/waybar/mocha.css",
+					"settings":
+					{
+						"buffer_size": 784,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAEAMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/dev/.config/waybar/style.css",
+					"settings":
+					{
+						"buffer_size": 1849,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAOQcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dev/.config/kitty/kitty.conf",
+				"/home/dev/.config/kitty/Tokyo-Night.conf",
+				"/home/dev/.config/waybar/styleoptions.css",
+				"/home/dev/.config/hypr/hyprpaper.conf",
+				"/home/dev/.config/waybar/style.css",
+				"/home/dev/.config/hypr/hyprland.conf",
+				"/home/dev/.bashrc",
+				"/home/dev/.config/waybar/waybar.conf",
+				"/home/dev/.config/fastfetch/config.jsonc",
+				"/home/dev/.config/fastfetch/config.conf",
+				"/home/dev/.config/wofi/syle.css",
+				"/home/dev/.config/wofi/config",
+				"/home/dev/.config/cava/shaders/pass_through.vert",
+				"/home/dev/.config/cava/shaders/northern_lights.frag",
+				"/home/dev/.config/cava/shaders/bar_spectrum.frag",
+				"/home/dev/.config/cava/config"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/dev/.config/waybar/config.jsonc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2698,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2698,
+										2698
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 638.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/dev/.config/waybar/macchiato.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 788,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										788,
+										788
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/dev/.config/waybar/mocha.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 784,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										784,
+										784
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/dev/.config/waybar/style.css",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1849,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1849,
+										1849
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 758.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,931,989,4480,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
